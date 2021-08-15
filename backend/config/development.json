@@ -1,0 +1,8 @@
+{
+  "app": {
+      "port" : 3001,
+      "ip" : "127.0.0.1"
+  },
+  "MONGO_KEY" : "mongodb+srv://shekhar201:shekhar201@cluster0.jvai5.mongodb.net/spaceXListing?retryWrites=true&w=majority",
+  "ACCESS_TOKEN_SECRET": "3b4a6b98e419a81e823502bd17a8d3c2aa21211da803ce0c3b7856e92182"
+}
